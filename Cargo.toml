@@ -1,0 +1,7 @@
+[package]
+name = "Fortune-Finder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linera-sdk = "0.10.1"
